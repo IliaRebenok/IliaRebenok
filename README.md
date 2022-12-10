@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IliaRebenok
-- 👀 I’m interested in front-end dev, electronics, and some other stuff
+- 👀 I’m interested in front-end dev, electronics, and trying to find out how the things work.
 - 🌱 I’m currently learning react + redux + TS combination
 - 💞️ I’m looking to collaborate on my future job 😅
 - 📫 How to reach me: e-mail:  
