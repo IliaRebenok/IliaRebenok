@@ -6,6 +6,7 @@
       - email:      rebenok.ilya13@gmail.com
       - telegram:   https://t.me/iliarebenok
       - instagram:  https://www.instagram.com/rebenok_ilia_/
+      - LinkedIn:   https://www.linkedin.com/in/ilia-rebenok/
 
 <!---
 IliaRebenok/IliaRebenok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
